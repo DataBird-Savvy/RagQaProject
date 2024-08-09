@@ -1,2 +1,1 @@
-# RagQaProject
-RAG base Question Answering assistant
+# deploying RAG Application using AWS(AWS lamba,AWS ECR),langchain,hugging face.
